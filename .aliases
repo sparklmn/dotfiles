@@ -53,6 +53,7 @@ alias cleanup="find . -name '*.DS_Store' -type f -ls -delete"
 # Shortcuts
 alias g="git"
 alias v="vim"
+alias gui="/usr/local/git/libexec/git-core/git-gui"
 
 # File size
 alias fs="stat -f \"%z bytes\""
